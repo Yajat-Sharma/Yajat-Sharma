@@ -1,27 +1,10 @@
-<!-- Header -->
-<div align="center">
+# Yajat <span style="color:#F5C842">Sharma</span>
 
-```
-██╗   ██╗ █████╗      ██╗ █████╗ ████████╗
-╚██╗ ██╔╝██╔══██╗     ██║██╔══██╗╚══██╔══╝
- ╚████╔╝ ███████║     ██║███████║   ██║   
-  ╚██╔╝  ██╔══██║██   ██║██╔══██║   ██║   
-   ██║   ██║  ██║╚█████╔╝██║  ██║   ██║   
-   ╚═╝   ╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝  
-```
-
-</div>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=F5C842&width=500&lines=Full-Stack+Engineer+%7C+Data+Scientist;Building+India-scale+products+from+Mumbai;Multi-Agent+AI+%7C+Hyperlocal+Platforms;Open+to+Internships+%26+Collabs+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=500&color=F5C842&width=500&lines=Open+to+Internships+%26+Collabs+%F0%9F%9A%80;Full-Stack+Engineer+%7C+Data+Scientist;Building+India-scale+products+from+Mumbai+%F0%9F%93%8D;Multi-Agent+AI+%7C+Hyperlocal+Platforms&center=false&repeat=false" alt="Typing SVG" />
 
 &nbsp;
 
-![Mumbai](https://img.shields.io/badge/📍_Mumbai-India-F5C842?style=flat-square&labelColor=0d1117&color=F5C842)
-![Status](https://img.shields.io/badge/Status-Available_for_Internships-5DCAA5?style=flat-square&labelColor=0d1117)
-![Year](https://img.shields.io/badge/2nd_Year-Engineering-AFA9EC?style=flat-square&labelColor=0d1117)
-![Building](https://img.shields.io/badge/Building-In_Public-888780?style=flat-square&labelColor=0d1117)
+`📍 Mumbai, India` &nbsp; `🟢 Available for Internships` &nbsp; `📅 2nd Year · Engineering` &nbsp; `🚀 Building in Public`
 
 ---
 
@@ -48,39 +31,19 @@ Currently going deep on data engineering as a career path — obsessed with pipe
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=F5C842)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F5C842)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=F5C842)
-![HTML](https://img.shields.io/badge/HTML%2FCSS-0d1117?style=flat-square&logo=html5&logoColor=F5C842)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=F5C842)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=F5C842) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F5C842) ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=F5C842) ![HTML](https://img.shields.io/badge/HTML%2FCSS-0d1117?style=flat-square&logo=html5&logoColor=F5C842) ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=F5C842)
 
 **Frontend & Backend**
 
-![Next.js](https://img.shields.io/badge/Next.js_15-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-0d1117?style=flat-square&logo=react&logoColor=5DCAA5)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=5DCAA5)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5DCAA5)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=5DCAA5)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_15-0d1117?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React_19-0d1117?style=flat-square&logo=react&logoColor=5DCAA5) ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=5DCAA5) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5DCAA5) ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=5DCAA5) ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white)
 
 **Data & Infra**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=AFA9EC)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=AFA9EC)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=AFA9EC)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=AFA9EC)
-![Groq](https://img.shields.io/badge/Groq_API-0d1117?style=flat-square&logoColor=AFA9EC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=AFA9EC) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=AFA9EC) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=AFA9EC) ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=AFA9EC) ![Groq](https://img.shields.io/badge/Groq_API-0d1117?style=flat-square&logoColor=AFA9EC)
 
 **Tools & Automation**
 
-![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=F5C842)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F5C842)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=F5C842)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=F5C842)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F5C842)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=F5C842)
-![OBS](https://img.shields.io/badge/OBS_Studio-0d1117?style=flat-square&logo=obsstudio&logoColor=F5C842)
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=F5C842) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F5C842) ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=F5C842) ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=F5C842) ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F5C842) ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=F5C842) ![OBS](https://img.shields.io/badge/OBS_Studio-0d1117?style=flat-square&logo=obsstudio&logoColor=F5C842)
 
 ---
 
@@ -119,7 +82,5 @@ Currently going deep on data engineering as a career path — obsessed with pipe
 ---
 
 <div align="center">
-  <sub>
-    <code>// open to internships · data science · full-stack · building cool stuff with smart people</code>
-  </sub>
+  <sub><code>// open to internships · data science · full-stack · building cool stuff with smart people</code></sub>
 </div>
