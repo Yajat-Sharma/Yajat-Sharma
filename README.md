@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C842&height=170&section=header&text=Yajat%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=52&desc=Full-Stack%20Engineer%20%7C%20Data%20Scientist&descAlignY=68&descSize=16&descColor=ffffff" width="100%"/>
-
+![header](./header.svg)
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=500&color=F5C842&width=500&lines=Open+to+Internships+%26+Collabs+%F0%9F%9A%80;Full-Stack+Engineer+%7C+Data+Scientist;Building+India-scale+products+from+Mumbai+%F0%9F%93%8D;Multi-Agent+AI+%7C+Hyperlocal+Platforms&repeat=false" alt="Typing SVG" />
 
 &nbsp;
