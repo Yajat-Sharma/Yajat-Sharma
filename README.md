@@ -1,4 +1,5 @@
 ![header](./header.svg)
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=500&color=F5C842&width=500&lines=Open+to+Internships+%26+Collabs+%F0%9F%9A%80;Full-Stack+Engineer+%7C+Data+Scientist;Building+India-scale+products+from+Mumbai+%F0%9F%93%8D;Multi-Agent+AI+%7C+Hyperlocal+Platforms&repeat=false" alt="Typing SVG" />
 
 &nbsp;
@@ -7,7 +8,7 @@
 
 ---
 
-### `$ whoami`
+### About
 
 I build **production-grade full-stack apps** and **multi-agent AI pipelines**. My focus is India-scale problems — hyperlocal services, ed-tech, and automation tools that actually work at ground level.
 
@@ -17,7 +18,7 @@ Currently going deep on data engineering as a career path — obsessed with pipe
 
 ---
 
-### `$ ls ./projects`
+### Projects
 
 | &nbsp; | Project | Description | Stack |
 |---|---|---|---|
@@ -27,7 +28,7 @@ Currently going deep on data engineering as a career path — obsessed with pipe
 
 ---
 
-### `$ cat ./stack.json`
+### Tech Stack
 
 **Languages**
 
@@ -47,7 +48,7 @@ Currently going deep on data engineering as a career path — obsessed with pipe
 
 ---
 
-### `$ cat ./currently-learning.md`
+### Currently Learning
 
 ```
 [ ] DSA & Algorithms        → Striver's A-Z Sheet
@@ -60,7 +61,7 @@ Currently going deep on data engineering as a career path — obsessed with pipe
 
 ---
 
-### `$ ./github-stats.sh`
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Yajat-Sharma&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0d1117&title_color=F5C842&icon_color=5DCAA5&text_color=c9d1d9" height="165px"/>
@@ -73,7 +74,7 @@ Currently going deep on data engineering as a career path — obsessed with pipe
 
 ---
 
-### `$ ./connect.sh`
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yajat-sharma2006)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yajats@gmail.com)
@@ -81,4 +82,6 @@ Currently going deep on data engineering as a career path — obsessed with pipe
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C842&height=80&section=footer" width="100%"/>
+<div align="center">
+  <sub><code>// open to internships · data science · full-stack · building cool stuff with smart people</code></sub>
+</div>
