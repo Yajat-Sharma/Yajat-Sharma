@@ -1,6 +1,6 @@
-# Yajat <span style="color:#F5C842">Sharma</span>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C842&height=120&section=header&text=Yajat%20Sharma&fontSize=52&fontColor=fff&fontAlignY=65&desc=Full-Stack%20Engineer%20%7C%20Data%20Scientist&descAlignY=85&descSize=14&descColor=F5C842" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=500&color=F5C842&width=500&lines=Open+to+Internships+%26+Collabs+%F0%9F%9A%80;Full-Stack+Engineer+%7C+Data+Scientist;Building+India-scale+products+from+Mumbai+%F0%9F%93%8D;Multi-Agent+AI+%7C+Hyperlocal+Platforms&center=false&repeat=false" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=500&color=F5C842&width=500&lines=Open+to+Internships+%26+Collabs+%F0%9F%9A%80;Full-Stack+Engineer+%7C+Data+Scientist;Building+India-scale+products+from+Mumbai+%F0%9F%93%8D;Multi-Agent+AI+%7C+Hyperlocal+Platforms&repeat=false" alt="Typing SVG" />
 
 &nbsp;
 
@@ -81,6 +81,4 @@ Currently going deep on data engineering as a career path — obsessed with pipe
 
 ---
 
-<div align="center">
-  <sub><code>// open to internships · data science · full-stack · building cool stuff with smart people</code></sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C842&height=80&section=footer" width="100%"/>
