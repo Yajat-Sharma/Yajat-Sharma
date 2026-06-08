@@ -1,1 +1,6 @@
-
+<svg width="800" height="110" viewBox="0 0 800 110" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="110" fill="#0d1117"/>
+  <text x="40" y="75" font-family="Arial Black, Arial" font-size="62" font-weight="900" letter-spacing="-2" fill="#ffffff">Yajat </text>
+  <text x="240" y="75" font-family="Arial Black, Arial" font-size="62" font-weight="900" letter-spacing="-2" fill="#F5C842">Sharma</text>
+  <text x="41" y="100" font-family="Courier New, monospace" font-size="15" fill="#888888">Full-Stack Engineer  ·  Data Scientist  ·  Mumbai</text>
+</svg>
