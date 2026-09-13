@@ -4,7 +4,7 @@
 
 &nbsp;
 
-`📍 Mumbai, India` &nbsp; `🟢 Available for Internships` &nbsp; `📅 2nd Year · Engineering` &nbsp; `🚀 Building in Public`
+`📍 Mumbai, India` &nbsp; `🟢 Available for Internships` &nbsp; `📅 3nd Year · Engineering` &nbsp; `🚀 Building in Public`
 
 ---
 
