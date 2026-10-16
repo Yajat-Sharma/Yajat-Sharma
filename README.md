@@ -1,88 +1,97 @@
-![header](./header.svg)
+<img src="./header.svg" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=500&color=F5C842&width=500&lines=Open+to+Internships+%26+Collabs+%F0%9F%9A%80;Full-Stack+Engineer+%7C+Data+Scientist;Building+India-scale+products+from+Mumbai+%F0%9F%93%8D;Multi-Agent+AI+%7C+Hyperlocal+Platforms&repeat=false" alt="Typing SVG" />
-
-&nbsp;
-
-`📍 Mumbai, India` &nbsp; `🟢 Available for Internships` &nbsp; `📅 3nd Year · Engineering` &nbsp; `🚀 Building in Public`
-
----
-
-### About
-
-I build **production-grade full-stack apps** and **multi-agent AI pipelines**. My focus is India-scale problems — hyperlocal services, ed-tech, and automation tools that actually work at ground level.
-
-Currently going deep on data engineering as a career path — obsessed with pipelines, evidence fusion, and turning messy data into decisions that matter.
-
-> *"Ship it, learn from it, make it better."*
-
----
-
-### Projects
-
-| &nbsp; | Project | Description | Stack |
-|---|---|---|---|
-| 🔶 | **LocalServices** | Hyperlocal home-services booking platform for Maharashtra. Three-role system — customers, providers, admins. Real-time chat + live tracking. | `Next.js 15` `PostgreSQL` `Socket.io` `Firebase` `Prisma` `Twilio` |
-| 🏃 | **RunRush** | Personal running intelligence platform — streak tracking, AI insights, social feed, badges & leaderboard. Offline-first with auto-sync. | `Python` `Flask` `PostgreSQL` `Vanilla JS` `Resend API` |
-| 🤖 | **AI Exam Predictor** | Multi-agent n8n pipeline predicting Mumbai University exam topics. 4 parallel research agents + evidence fusion. Weighted confidence scoring (PYQ 40%, Syllabus 30%, Web 20%, Social 10%). | `Llama 3.3 70B` `n8n` `Groq` `RAG` |
-
----
-
-### Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=F5C842) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F5C842) ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=F5C842) ![HTML](https://img.shields.io/badge/HTML%2FCSS-0d1117?style=flat-square&logo=html5&logoColor=F5C842) ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=F5C842)
-
-**Frontend & Backend**
-
-![Next.js](https://img.shields.io/badge/Next.js_15-0d1117?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React_19-0d1117?style=flat-square&logo=react&logoColor=5DCAA5) ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=5DCAA5) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5DCAA5) ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=5DCAA5) ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white)
-
-**Data & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=AFA9EC) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=AFA9EC) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=AFA9EC) ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=AFA9EC) ![Groq](https://img.shields.io/badge/Groq_API-0d1117?style=flat-square&logoColor=AFA9EC)
-
-**Tools & Automation**
-
-![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=F5C842) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F5C842) ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=F5C842) ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=F5C842) ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F5C842) ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=F5C842) ![OBS](https://img.shields.io/badge/OBS_Studio-0d1117?style=flat-square&logo=obsstudio&logoColor=F5C842)
-
----
-
-### Currently Learning
-
-```
-[ ] DSA & Algorithms        → Striver's A-Z Sheet
-[ ] Multi-Agent AI Systems  → n8n + LLM orchestration  
-[ ] Data Engineering        → Pipelines, evidence fusion
-[ ] System Design           → HLD + LLD fundamentals
-[ ] Graph Theory            → CS core depth
-[ ] CI/CD & DevOps          → Docker, deployment flows
-```
-
----
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yajat-Sharma&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0d1117&title_color=F5C842&icon_color=5DCAA5&text_color=c9d1d9" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yajat-Sharma&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=F5C842&text_color=c9d1d9" height="165px"/>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Yajat-Sharma&theme=tokyonight&hide_border=true&background=0d1117&ring=F5C842&fire=5DCAA5&currStreakLabel=F5C842&sideLabels=c9d1d9&dates=888780" height="165px"/>
-</p>
-
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yajat-sharma2006)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yajats@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yajat-Sharma)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C842&height=80&section=footer" width="100%"/>
 <div align="center">
-  <sub><code>// open to internships · data science · full-stack · building cool stuff with smart people</code></sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F5C842&width=800&lines=Full-Stack+Engineer+%7C+Data+Scientist;Building+India-scale+products+from+Mumbai;Multi-Agent+AI+%7C+Hyperlocal+Platforms" alt="typing" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Mumbai%2C%20India-F5C842?style=flat-square&logo=map-marker" alt="location" /> <img src="https://img.shields.io/badge/Available%20for%20Internships-F5C842?style=flat-square" alt="available" /> <img src="https://img.shields.io/badge/3rd%20Year%2C%20Computer%20Engineering-F5C842?style=flat-square" alt="year" /> <img src="https://img.shields.io/badge/Building%20in%20Public-F5C842?style=flat-square" alt="building" />
+
+</div>
+
+---
+
+About
+
+I am a Computer Engineering student at Mumbai University who builds production-grade full-stack applications and multi-agent AI systems for India-scale problems (hyperlocal services, ed-tech, business automation). My career focus is Data Science and Data Engineering.
+
+| Currently building | Currently learning | Looking for |
+|---|---|---|
+| RunRush, Invento, multi-agent exam-prep pipeline | DSA, System Design, Data Engineering, CI/CD | Internships in Data Science, Data Engineering, Full-Stack |
+
+---
+
+Featured Projects
+
+LocalServices  
+Hyperlocal home-services marketplace for Maharashtra with roles for customers, providers and admins; real-time chat and live tracking.  
+Tech: <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=F5C842" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Twilio-FF3D00?style=flat-square&logo=twilio&logoColor=white" />  
+Repository: https://github.com/Yajat-Sharma/localservices
+
+---
+
+RunRush  
+Offline-first running platform with streak tracking, AI insights, social feed, badges and leaderboards.  
+Tech: <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Vanilla%20JS-F5C842?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Resend-0D1117?style=flat-square" />  
+Repository: https://github.com/Yajat-Sharma/Runrush
+
+---
+
+AI Exam Prep Agent  
+Multi-agent n8n pipeline predicting Mumbai University exam topics. Four parallel research agents with evidence fusion and weighted confidence scoring (PYQ 40%, Syllabus 30%, Web 20%, Social 10%).  
+Tech: <img src="https://img.shields.io/badge/Llama%203.3%2070B-0D1117?style=flat-square" /> <img src="https://img.shields.io/badge/n8n-5DCAA5?style=flat-square&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-0D1117?style=flat-square" /> <img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />  
+Repository: https://github.com/Yajat-Sharma/exam-prep-agent
+
+---
+
+Invento  
+Serverless smart inventory and expiry management web app for Horizon Business Solutions. Live: https://invento.horizonbs.in  
+Tech: Serverless, Firebase, PostgreSQL
+
+---
+
+Technical Skills
+
+| Category | Tools |
+|---|---|
+| Languages | Python, JavaScript, C++, HTML/CSS, Bash |
+| Frontend | Next.js, React, Tailwind CSS |
+| Backend | Node.js, Flask, FastAPI, Express, Prisma |
+| Data and Cloud | PostgreSQL, MongoDB, Firebase, Docker |
+| AI and Automation | n8n, Groq API, LLM orchestration, RAG, multi-agent systems |
+| Tools | Git, Postman, Figma, VS Code |
+
+---
+
+GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yajat-Sharma&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=F5C842&icon_color=5DCAA5&hide_border=true" alt="stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yajat-Sharma&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=F5C842&icon_color=5DCAA5&hide_border=true" alt="top langs" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yajat-Sharma&theme=tokyonight&background=0d1117&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+Let's Connect
+
+Open to internships and collaborations in data science, data engineering and full-stack development.
+
+<div>
+
+<a href="https://www.linkedin.com/in/yajat-sharma2006/"><img src="./assets/icon_linkedin.svg" alt="LinkedIn" height="28" /></a>
+<a href="mailto:yajats@gmail.com"><img src="./assets/icon_email.svg" alt="Email" height="28" /></a>
+<a href="https://github.com/Yajat-Sharma"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
+
+<div align="center">
+
+<img src="./assets/footer.svg" alt="footer" />
+
 </div>

@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="24" viewBox="0 0 800 24">
-  <rect width="800" height="24" rx="12" fill="#0d1117"/>
-  <g fill="#F5C842" opacity="0.95">
-    <rect x="0" y="11" width="800" height="2" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 28" width="800" height="28" role="img" aria-label="divider">
+  <rect width="800" height="28" fill="#0d1117"/>
+  <line x1="8" y1="14" x2="792" y2="14" stroke="#F5C842" stroke-width="2" stroke-linecap="round" />
+  <circle cx="24" cy="14" r="3" fill="#5DCAA5"/>
 </svg>
