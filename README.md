@@ -78,20 +78,13 @@ GitHub Activity
 
 ---
 
-Let's Connect
+## Let's Connect
 
 Open to internships and collaborations in data science, data engineering and full-stack development.
 
-<div>
-
-<a href="https://www.linkedin.com/in/yajat-sharma2006/"><img src="./assets/icon_linkedin.svg" alt="LinkedIn" height="28" /></a>
-<a href="mailto:yajats@gmail.com"><img src="./assets/icon_email.svg" alt="Email" height="28" /></a>
-<a href="https://github.com/Yajat-Sharma"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div>
-
-<div align="center">
-
-<img src="./assets/footer.svg" alt="footer" />
-
-</div>
+<a href="https://www.linkedin.com/in/yajat-sharma2006/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yajat%20Sharma-0d1117?style=for-the-badge&logo=linkedin&logoColor=F5C842&labelColor=1f2937" alt="LinkedIn profile of Yajat Sharma"/>
+</a><br>
+<a href="mailto:yajats@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-yajats%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=F5C842&labelColor=1f2937" alt="Email Yajat Sharma"/>
+</a>
